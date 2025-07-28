@@ -4,7 +4,7 @@ A machine learning project to predict house prices using Linear Regression and R
 
 ## 📁 Files
 - `sample_house_prices.csv`: Sample dataset
-- `house_price_model.ipynb`: Complete notebook with EDA, preprocessing, training & evaluation
+- `cdtask1.ipynb`: Complete notebook with EDA, preprocessing, training & evaluation
 
 ## 🧠 Tools Used
 - Python
